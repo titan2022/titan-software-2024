@@ -1,4 +1,5 @@
 <script>
+
   let rand = -1;
 
   function getRand() {
